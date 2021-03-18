@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.exe
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.deps.json
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.runtimeconfig.json
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.dll
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\bin\Debug\netcoreapp3.1\probandoApp.pdb
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.dll
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.pdb
+C:\Users\admin\Desktop\GitHub\Repositorio\Darky\probandoApp\obj\Debug\netcoreapp3.1\probandoApp.genruntimeconfig.cache
